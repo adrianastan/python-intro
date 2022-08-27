@@ -7,7 +7,7 @@ You can find the PDF version of the book in the `pdf/` folder and all the associ
 For now, the book and notebooks are in Romanian, but an English version will be soon made available.
 
 
-> If you use the notebooks or parts of the book, please cite:
-Adriana STAN, `Introducere în Python folosind Google Colab`, UTPress, 2022.
+If you use the notebooks or parts of the book, please cite:
+> Adriana STAN, `Introducere în Python folosind Google Colab`, UTPress, 2022.
 
 If you have any suggestions or comments, please e-mail: adrianac[dot]stan[arond]gmail[dot]com
