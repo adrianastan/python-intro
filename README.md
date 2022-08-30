@@ -1,6 +1,6 @@
 # Introduction to Python using Google Colab
 
-![Cover](https://raw.githubusercontent.com/adrianastan/python-intro/main/notebooks/ro/imgs/cover.png)
+<img src="https://raw.githubusercontent.com/adrianastan/python-intro/main/notebooks/ro/imgs/cover.png" alt="cover" width="200"/>
 
 This is the official repository for the "Introduction to Python using Google Colab", Adriana STAN, 2022 (to appear).
 
